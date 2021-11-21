@@ -2,7 +2,7 @@
     "data": [
         {
             "id": 1,
-            "name": "shoe 1",
+            "name": "my new shoe",
             "description": "first 1 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus impedit, repudiandae aliquid quia, harum labore quaerat molestiae iste est praesentium, qui assumenda voluptatibus et illum commodi recusandae nihil voluptate rem nobis quibusdam cumque eius nulla. Dicta quos ab cumque autem.",
             "price": 1500,
             "ratings": 3,
